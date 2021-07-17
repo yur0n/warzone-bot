@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "call-of-duty-api": "^2.0.0-dev",
+    "slimbot": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}

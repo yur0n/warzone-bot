@@ -1,9 +1,18 @@
 {
   "dependencies": {
     "call-of-duty-api": "^2.0.0-dev",
+    "express": "^4.17.1",
     "slimbot": "^5.1.0"
   },
+  "name": "wz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
   "scripts": {
-    "start": "node bot.js"
-  }
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
+
